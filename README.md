@@ -16,11 +16,11 @@ The app does utilize third-party services that may gather information used to id
 
 Links to the privacy policies of third-party service providers used by the app:
 
-Google Play Services
-Facebook
-One Signal
-AppsFlyer
-Firebase
+[Google Play Services](https://policies.google.com/privacy)
+[Facebook](https://www.facebook.com/about/privacy/update/printable)
+[One Signal](https://onesignal.com/privacy_policy)
+[AppsFlyer](https://www.appsflyer.com/legal/services-privacy-policy/)
+[Firebase](https://firebase.google.com/support/privacy)
 
 Log Data
 
